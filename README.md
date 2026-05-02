@@ -105,9 +105,13 @@ Results focus on performance, not correctness
 External APIs introduce non-deterministic variability
 
 Files / Artifacts 
+
 Runtime tables (Chapter 4)
+
 Optimization comparison table
+
 Pipeline diagram
+
 Runtime graph
 
 Next Steps / Recommendations
