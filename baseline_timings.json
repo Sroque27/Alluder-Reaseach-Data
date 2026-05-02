@@ -1,0 +1,35 @@
+[
+  {
+    "case": "S",
+    "trial": 0,
+    "language_detection": 0.22525595899787731,
+    "translation": 6.659975042566657e-07,
+    "spacy": 0.048638166997989174,
+    "token_annotation": 0.1154194170012488,
+    "entity_enrichment": 11.735485041004722,
+    "patterns": 0.0006132499984232709,
+    "total": 12.125412499997765
+  },
+  {
+    "case": "M",
+    "trial": 0,
+    "language_detection": 0.0063807499973336235,
+    "translation": 1.7080019460991025e-06,
+    "spacy": 0.06705412500014063,
+    "token_annotation": 0.014955792001273949,
+    "entity_enrichment": 6.154833583001164,
+    "patterns": 0.00028337499679764733,
+    "total": 6.243509332998656
+  },
+  {
+    "case": "L",
+    "trial": 0,
+    "language_detection": 0.013165666998247616,
+    "translation": 5.830006557516754e-07,
+    "spacy": 0.5354285420035012,
+    "token_annotation": 0.14258049999625655,
+    "entity_enrichment": 74.17880445800256,
+    "patterns": 0.01019658300356241,
+    "total": 74.88017633300478
+  }
+]

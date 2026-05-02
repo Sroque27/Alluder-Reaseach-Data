@@ -1,0 +1,35 @@
+[
+  {
+    "case": "S",
+    "trial": 0,
+    "language_detection": 0.15212862502085045,
+    "translation": 4.5803608372807503e-07,
+    "spacy": 0.021913459000643343,
+    "token_annotation": 0.10941795795224607,
+    "entity_enrichment": 13.680657916993368,
+    "patterns": 0.0006347080343402922,
+    "total": 13.964753125037532
+  },
+  {
+    "case": "M",
+    "trial": 0,
+    "language_detection": 0.008594124985393137,
+    "translation": 1.834006980061531e-06,
+    "spacy": 0.07159458298701793,
+    "token_annotation": 0.006754333036951721,
+    "entity_enrichment": 17.674074249982368,
+    "patterns": 0.0010199170210398734,
+    "total": 17.76203904201975
+  },
+  {
+    "case": "L",
+    "trial": 0,
+    "language_detection": 0.025812708016019315,
+    "translation": 1.0840012691915035e-06,
+    "spacy": 0.5427928330027498,
+    "token_annotation": 0.09583645797101781,
+    "entity_enrichment": 85.29239008401055,
+    "patterns": 0.004149415995925665,
+    "total": 85.96098258299753
+  }
+]
